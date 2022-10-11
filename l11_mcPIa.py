@@ -9,6 +9,5 @@ for i in range(N):
 	if d <= 1:
 		c += 1
 	s += 1
-
 pi = 4*(c/s)
 print(pi)
