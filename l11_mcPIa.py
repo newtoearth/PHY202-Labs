@@ -1,4 +1,5 @@
 import random
+
 N = 50000
 c = 0
 s = 0
@@ -9,4 +10,5 @@ for i in range(N):
 		c += 1
 	s += 1
 pi = 4*(c/s)
+
 print(pi)
