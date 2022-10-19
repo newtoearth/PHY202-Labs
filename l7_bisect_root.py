@@ -26,5 +26,4 @@ def b_root(f,a,b):
 	return t
 
 x0 = b_root(f,-1,3)
-
 print(x0)
