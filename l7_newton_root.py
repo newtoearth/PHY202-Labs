@@ -1,5 +1,5 @@
 import numpy as np
-
+  
 f = lambda x : x**2 - 5
 h = 0.00001
 D = lambda f,x : (f(x+h)-f(x))/h
