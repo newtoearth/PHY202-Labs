@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-f = lambda x : x**2 - 5
+f = lambda x : x**2 - 5 
 
 def graph():
 	x = np.arange(-9,9,0.1)
