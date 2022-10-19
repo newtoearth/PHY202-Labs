@@ -1,5 +1,4 @@
 import random
-
 N = 50000
 c = 0
 s = 0
