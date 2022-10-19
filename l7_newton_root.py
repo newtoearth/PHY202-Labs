@@ -18,4 +18,5 @@ def n_root(f,a,b):
 	return None
 
 x0 = n_root(f,-1,3)
+
 print(x0)
